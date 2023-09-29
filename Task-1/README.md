@@ -21,21 +21,21 @@ Before running the code, ensure you have the following installed:
 
 You can install the required libraries using pip:
 
-pip install numpy pandas scikit-learn matplotlib
+- `pip install numpy pandas scikit-learn matplotlib`
 
 ## Getting Started
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/Varun-n-n/Ai-models.git
+ - git clone https://github.com/Varun-n-n/Ai-models.git
 
 2. Navigate to the project directory:
 
-   `cd Task-1`
+ - `cd Task-1`
 
 3. Run the Python script:
    
-  `python House_price_prediction.py`
+ - `python House_price_prediction.py`
 
 ## Usage
 
