@@ -8,8 +8,6 @@ This project aims to predict gold prices using machine learning techniques. The 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -26,9 +24,7 @@ To run this project, you need the following prerequisites:
 - matplotlib
 
 You can install the required packages using `pip`:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
+- `pip install numpy pandas scikit-learn matplotlib`
 
 ## Installation
 Clone the repository:
