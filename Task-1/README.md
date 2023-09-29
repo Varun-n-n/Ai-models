@@ -31,11 +31,11 @@ git clone https://github.com/Varun-n-n/Ai-models.git
 
 2. Navigate to the project directory:
 
-   'cd Task-1'
+   `cd Task-1`
 
 3. Run the Python script:
    
-  'python House_price_prediction.py'
+  `python House_price_prediction.py`
 
 ## Usage
 
