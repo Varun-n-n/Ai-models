@@ -8,7 +8,6 @@ This repository contains a Python script for predicting house prices using a Ran
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Prerequisites
 
@@ -28,19 +27,19 @@ pip install numpy pandas scikit-learn matplotlib
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/Varun-n-n/Ai-models.git
 
 2. Navigate to the project directory:
 
-cd house-price-prediction
+   'cd Task-1'
 
 3. Run the Python script:
    
-  python house_price_prediction.py
+  'python House_price_prediction.py'
 
 ## Usage
 
-- `house_price_prediction.py` contains the main Python script for generating the synthetic dataset, training the Random Forest Regressor model, and evaluating its performance.
+- `House_price_prediction.py` contains the main Python script for generating the synthetic dataset, training the Random Forest Regressor model, and evaluating its performance.
 
 ## Results
 
