@@ -1,13 +1,11 @@
 `
 # Blindness Detection AI Model
 
-This repository contains code for training an AI model to detect blindness using PyTorch. The model is a simple example and uses randomly generated data for demonstration purposes. In practice, you would replace the random data with real medical images and labels.
-
+This repository contains code for training an AI model to detect *blindness* using PyTorch. The model uses randomly generated data for demonstration purposes.
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Training](#training)
 - [Model Evaluation](#model-evaluation)
 
 ## Prerequisites
@@ -17,16 +15,16 @@ This repository contains code for training an AI model to detect blindness using
 
 ## Getting Started
 1. Clone this repository to your local machine:
-- `git clone https://github.com/yourusername/blindness-detection.git`
+- `git clone https://github.com/Varun-n-n/Ai-models.git`
 
 2. Change into the project directory:
 
 - `cd Golden-project-1`
 3. Install the required Python packages:
   `pip install -r requirements.txt`
+  
 ## Usage
 Use Jupyter Notebook for experimentation and visualization.
-#Training
 - Run the training script:
 `python Blindness_detection.py`
 
