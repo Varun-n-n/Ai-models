@@ -83,5 +83,4 @@ These visualizations provide an overview of the model's performance and its abil
 
 ## Author
 
-- HEMANTH KUMAR KS                                                                                                                         
-  (https://github.com/Varun-n-n)
+- [HEMANTH KUMAR KS](https://github.com/Varun-n-n)
