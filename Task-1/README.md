@@ -27,7 +27,7 @@ You can install the required libraries using pip:
 
 1. Clone this repository to your local machine:
 
- - git clone https://github.com/Varun-n-n/Ai-models.git
+ - ```git clone https://github.com/Varun-n-n/Ai-models.git```
 
 2. Navigate to the project directory:
 
