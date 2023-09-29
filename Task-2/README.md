@@ -40,10 +40,8 @@ Run the Jupyter Notebook or Python script to execute the gold price prediction m
 
 `python Gold_price_prediction.py`
 
-View the evaluation metrics and the visualization of predicted vs. actual gold prices.
-
 ## Results
 
-The model's performance is evaluated using Mean Squared Error (MSE) and Mean Absolute Error (MAE).
-You can find the evaluation results in the console output when you run the script.
+The model's performance is evaluated using Mean Squared Error (MSE) and Mean Absolute Error (MAE).                                                               
+You can find the evaluation results in the console output when you run the script.                                                                     
 Additionally, a graph comparing actual and predicted gold prices is displayed for visualization.
